@@ -34,9 +34,9 @@ const skillsList = [
   "Software Developer",
   "AI/ML Developer",
   "Open Source Contributer",
-  "Cybersecurity Analist",
+  "CyberSecurity Analyst",
   "App Developer",
-  "Competative Programmer",
+  "competitive programming ",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. Love to contribute in open source.";
 
 const About = () => {
   return (

@@ -31,7 +31,7 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Linkdin",
+    title: "Linkedin",
     description:
       "Must Visit My Linkdin.",
     url: "https://www.linkedin.com/in/ashish-madhup-640479221/",
@@ -39,7 +39,7 @@ const projectList = [
   {
     title: "My Youtube Channel",
     description:
-      "Lean Ethical Hacking & Cybersecurity & Know about latest technology.",
+      "Learn Ethical Hacking & Cybersecurity & Know about latest technology.",
     url: "https://youtube.com/@HACKBYTECODEX?si=LFN46yOhrfScGA3X",
   },
   {
@@ -51,7 +51,7 @@ const projectList = [
   {
     title: "Leetcode",
     description:
-      " Must see my coding que solutions.",
+      "Contributed innovative solutions on LeetCode, enhancing the problem-solving community.",
     url: "https://leetcode.com/ashish_madhup/",
   },
 ];
