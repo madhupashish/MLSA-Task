@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "ashish-madhup-640479221",
   medium: "",
   twitter: "ashish_madhup",
-  youTube: "UCSfzYJXFQFT36-a5kYjl9cA",
+  youTube: "https://youtube.com/@HACKBYTECODEX?si=nGBS-u0yBjrsbb5H",
 };
 
 const primaryColor = "#4E567E";

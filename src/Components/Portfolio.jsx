@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Linkedin",
     description:
-      "Must Visit My Linkdin.",
+      "Must Visit My Linkedin.",
     url: "https://www.linkedin.com/in/ashish-madhup-640479221/",
   },
   {
