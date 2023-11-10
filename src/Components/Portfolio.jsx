@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Linkdin",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Must Visit My Linkdin.",
+    url: "https://www.linkedin.com/in/ashish-madhup-640479221/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Youtube Channel",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Lean Ethical Hacking & Cybersecurity & Know about latest technology.",
+    url: "https://youtube.com/@HACKBYTECODEX?si=LFN46yOhrfScGA3X",
   },
   {
-    title: "My Resume Site",
+    title: "Github",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "View my projects.",
+    url: "https://github.com/madhupashish",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Leetcode",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      " Must see my coding que solutions.",
+    url: "https://leetcode.com/ashish_madhup/",
   },
 ];
 
